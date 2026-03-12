@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "50d2af2468b007a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Introducción a la posproducción de vídeos/1.1. Introducción.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.1. Introducción"
-            }
-          },
-          {
             "id": "8272d1d86d1433a9",
             "type": "leaf",
             "state": {
@@ -36,12 +22,26 @@
             }
           },
           {
+            "id": "8f6c49884478ac77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Introducción a la posproducción de vídeos/1.3. Tipología de planos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.3. Tipología de planos"
+            }
+          },
+          {
             "id": "c0163933b3de0723",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.2. Conceptos básicos en la producción de vídeos.md",
+                "file": "1. Introducción a la posproducción de vídeos/1.2. Conceptos básicos en la producción de vídeos.md",
                 "mode": "source",
                 "source": false
               },
@@ -49,8 +49,7 @@
               "title": "1.2. Conceptos básicos en la producción de vídeos"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,10 +212,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0163933b3de0723",
+  "active": "8272d1d86d1433a9",
   "lastOpenFiles": [
+    "1. Introducción a la posproducción de vídeos/1.3. Tipología de planos.md",
     "SUMMARY.md",
-    "1.2. Conceptos básicos en la producción de vídeos.md",
+    "1. Introducción a la posproducción de vídeos/1.2. Conceptos básicos en la producción de vídeos.md",
     "1. Introducción a la posproducción de vídeos/1.1. Introducción.md",
     "1. Introducción a la posproducción de vídeos"
   ]
