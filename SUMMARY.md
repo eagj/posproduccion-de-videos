@@ -4,4 +4,5 @@
   * [1.1. Introducción](1.%20Introducción%20a%20la%20posproducción%20de%20vídeos/1.1.%20Introducción.md)
   * [1.2. Conceptos básicos en la producción de vídeos](1.%20Introducción%20a%20la%20posproducción%20de%20vídeos/1.2.%20Conceptos%20básicos%20en%20la%20producción%20de%20vídeos.md)
   * [1.3. Tipología de planos](1.%20Introducción%20a%20la%20posproducción%20de%20vídeos/1.3.%20Tipología%20de%20planos.md)
+  * [1.4. El plano y el encuadre](1.%20Introducción%20a%20la%20posproducción%20de%20vídeos/1.4.%20El%20plano%20y%20el%20encuadre.md)
   * 
