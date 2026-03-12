@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "SUMMARY"
             }
+          },
+          {
+            "id": "c0163933b3de0723",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.2. Conceptos básicos en la producción de vídeos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.2. Conceptos básicos en la producción de vídeos"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,10 +213,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8272d1d86d1433a9",
+  "active": "c0163933b3de0723",
   "lastOpenFiles": [
-    "1. Introducción a la posproducción de vídeos/1.1. Introducción.md",
     "SUMMARY.md",
+    "1.2. Conceptos básicos en la producción de vídeos.md",
+    "1. Introducción a la posproducción de vídeos/1.1. Introducción.md",
     "1. Introducción a la posproducción de vídeos"
   ]
 }
