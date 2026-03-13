@@ -25,4 +25,5 @@
   * [3.3. Ejercicio](3.%20Efectos%20para%20mejorar%20los%20vídeos/3.3.%20Ejercicio.md)
   * [3.4. Tipología de efectos especiales](3.%20Efectos%20para%20mejorar%20los%20vídeos/3.4.%20Tipología%20de%20efectos%20especiales.md)
   * [3.5. Ejercicio](3.%20Efectos%20para%20mejorar%20los%20vídeos/3.5.%20Ejercicio.md)
+  * [3.6. Corrección de color y etalonaje](3.%20Efectos%20para%20mejorar%20los%20vídeos/3.6.%20Corrección%20de%20color%20y%20etalonaje.md)
   * 
