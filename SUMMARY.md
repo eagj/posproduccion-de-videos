@@ -16,3 +16,5 @@
   * [2.2. Uniendo planos](2.%20Conociendo%20el%20montaje%20de%20planos/2.2.%20Uniendo%20planos.md)
   * [2.3. Elementos que determinan un montaje](2.%20Conociendo%20el%20montaje%20de%20planos/2.3.%20Elementos%20que%20determinan%20un%20montaje.md)
   * [2.4. Ejercicio](2.%20Conociendo%20el%20montaje%20de%20planos/2.4.%20Ejercicio.md)
+  * [2.5. Tipos de montaje](2.%20Conociendo%20el%20montaje%20de%20planos/2.5.%20Tipos%20de%20montaje.md)
+  * 
