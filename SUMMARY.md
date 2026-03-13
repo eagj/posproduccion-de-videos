@@ -21,4 +21,5 @@
   * [2.7. Prácticas habituales](2.%20Conociendo%20el%20montaje%20de%20planos/2.7.%20Prácticas%20habituales.md)
 * [3. Efectos para mejorar los vídeos](3.%20Efectos%20para%20mejorar%20los%20vídeos/README.md)
   * [3.1. Diferenciando efectos especiales y visuales](3.%20Efectos%20para%20mejorar%20los%20vídeos/3.1.%20Diferenciando%20efectos%20especiales%20y%20visuales.md)
+  * [3.2. Tipología de efectos especiales](3.%20Efectos%20para%20mejorar%20los%20vídeos/3.2.%20Tipología%20de%20efectos%20especiales.md)
   * 
