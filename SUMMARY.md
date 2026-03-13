@@ -18,4 +18,5 @@
   * [2.4. Ejercicio](2.%20Conociendo%20el%20montaje%20de%20planos/2.4.%20Ejercicio.md)
   * [2.5. Tipos de montaje](2.%20Conociendo%20el%20montaje%20de%20planos/2.5.%20Tipos%20de%20montaje.md)
   * [2.6. Ejercicio](2.%20Conociendo%20el%20montaje%20de%20planos/2.6.%20Ejercicio.md)
+  * [2.7. Prácticas habituales](2.%20Conociendo%20el%20montaje%20de%20planos/2.7.%20Prácticas%20habituales.md)
   * 
