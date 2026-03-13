@@ -10,4 +10,5 @@
   * [1.7. Ejercicio](1.%20Introducción%20a%20la%20posproducción%20de%20vídeos/1.7.%20Ejercicio.md)
   * [1.8. Planos según el punto de vista](1.%20Introducción%20a%20la%20posproducción%20de%20vídeos/1.8.%20Planos%20según%20el%20punto%20de%20vista.md)
   * [1.9. Generación de nuevos planos](1.%20Introducción%20a%20la%20posproducción%20de%20vídeos/1.9.%20Generación%20de%20nuevos%20planos.md)
+  * [1.10. Ejercicio](1.%20Introducción%20a%20la%20posproducción%20de%20vídeos/1.10.%20Ejercicio.md)
   * 
