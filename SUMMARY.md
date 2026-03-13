@@ -13,4 +13,5 @@
   * [1.10. Ejercicio](1.%20Introducción%20a%20la%20posproducción%20de%20vídeos/1.10.%20Ejercicio.md)
 * [2. Conociendo el montaje de planos](2.%20Conociendo%20el%20montaje%20de%20planos/README.md)
   * [2.1. Introducción](2.%20Conociendo%20el%20montaje%20de%20planos/2.1.%20Introducción.md)
+  * [2.2. Uniendo planos](2.%20Conociendo%20el%20montaje%20de%20planos/2.2.%20Uniendo%20planos.md)
   * 
