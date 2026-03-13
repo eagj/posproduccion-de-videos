@@ -32,4 +32,5 @@
   * [4.3. Proyectos e importación](4.%20Edición%20de%20vídeo%20con%20Premiere%20Pro/4.3.%20Proyectos%20e%20importación.md)
   * [4.4. Panel monitor de origen](4.%20Edición%20de%20vídeo%20con%20Premiere%20Pro/4.4.%20Panel%20monitor%20de%20origen.md)
   * [4.5. Linea de tiempo y herramientas (1)](4.%20Edición%20de%20vídeo%20con%20Premiere%20Pro/4.5.%20Linea%20de%20tiempo%20y%20herramientas%20(1).md)
+  * [4.6. Linea de tiempo y herramientas (2)](4.%20Edición%20de%20vídeo%20con%20Premiere%20Pro/4.6.%20Linea%20de%20tiempo%20y%20herramientas%20(2).md)
   * 
