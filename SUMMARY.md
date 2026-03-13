@@ -14,4 +14,5 @@
 * [2. Conociendo el montaje de planos](2.%20Conociendo%20el%20montaje%20de%20planos/README.md)
   * [2.1. Introducción](2.%20Conociendo%20el%20montaje%20de%20planos/2.1.%20Introducción.md)
   * [2.2. Uniendo planos](2.%20Conociendo%20el%20montaje%20de%20planos/2.2.%20Uniendo%20planos.md)
+  * [2.3. Elementos que determinan un montaje](2.%20Conociendo%20el%20montaje%20de%20planos/2.3.%20Elementos%20que%20determinan%20un%20montaje.md)
   * 
