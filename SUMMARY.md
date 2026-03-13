@@ -23,4 +23,5 @@
   * [3.1. Diferenciando efectos especiales y visuales](3.%20Efectos%20para%20mejorar%20los%20vídeos/3.1.%20Diferenciando%20efectos%20especiales%20y%20visuales.md)
   * [3.2. Tipología de efectos especiales](3.%20Efectos%20para%20mejorar%20los%20vídeos/3.2.%20Tipología%20de%20efectos%20especiales.md)
   * [3.3. Ejercicio](3.%20Efectos%20para%20mejorar%20los%20vídeos/3.3.%20Ejercicio.md)
+  * [3.4. Tipología de efectos especiales](3.%20Efectos%20para%20mejorar%20los%20vídeos/3.4.%20Tipología%20de%20efectos%20especiales.md)
   * 
