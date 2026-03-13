@@ -6,4 +6,5 @@
   * [1.3. Tipología de planos](1.%20Introducción%20a%20la%20posproducción%20de%20vídeos/1.3.%20Tipología%20de%20planos.md)
   * [1.4. El plano y el encuadre](1.%20Introducción%20a%20la%20posproducción%20de%20vídeos/1.4.%20El%20plano%20y%20el%20encuadre.md)
   * [1.5. Ejercicio](1.%20Introducción%20a%20la%20posproducción%20de%20vídeos/1.5.%20Ejercicio.md)
+  * [1.6. El plano y el ángulo de cámara](1.%20Introducción%20a%20la%20posproducción%20de%20vídeos/1.6.%20El%20plano%20y%20el%20ángulo%20de%20cámara.md)
   * 
